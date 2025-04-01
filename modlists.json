@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Waters of Life",
+        "description": "Waters of Life is a lightweight vanilla plus Wabbajack mod list for Fallout 3. It features essential vanilla bug fixes, performance optimizations, restored cut content, and a few gameplay features you might be used to from more modern games. If you want an easy to install modlist that doesn't stray too far from vanilla, look no further!",
+        "author": "poke",
+        "maintainers": [
+            "github/zpok3"
+        ],
+        "game": "fallout3",
+        "tags": [
+            "Vanilla Plus",
+            "Gameplay",
+            "Customizability",
+			"Lightweight"
+        ],
+        "nsfw": false,
+        "image_contains_title": true,
+        "force_down": false,
+        "links": {
+            "image": "https://raw.githubusercontent.com/zpok3/Waters-of-Life/main/images/waters%20of%20life%20logo.webp",
+            "readme": "https://github.com/zpok3/Waters-of-Life/blob/main/README.md",
+            "download": "https://authored-files.wabbajack.org/Waters%20of%20Life.wabbajack_7ac40306-4c21-4194-a0a5-5686b32d4091",
+            "machineURL": "watersoflife",
+            "discordURL": ""
+        },
+        "download_metadata": {
+            "Hash": "nxLomt3Kcdg=",
+            "Size": 228219890,
+            "NumberOfArchives": 101,
+            "SizeOfArchives": 4695231438,
+            "NumberOfInstalledFiles": 8652,
+            "SizeOfInstalledFiles": 11128888787,
+            "TotalSize": 15824120225
+        },
+        "version": "1.2.2"
+    }
+]
