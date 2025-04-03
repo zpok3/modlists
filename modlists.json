@@ -16,7 +16,7 @@
         "force_down": false,
         "links": {
             "$type": "Links, Wabbajack.Lib",
-            "image": "https://raw.githubusercontent.com/zpok3/Waters-of-Life/main/images/waters%20of%20life%20logo.webp",
+            "image": "https://raw.githubusercontent.com/zpok3/Waters-of-Life/refs/heads/main/images/waters%20of%20life%20wj%20image.webp",
             "readme": "https://github.com/zpok3/Waters-of-Life/blob/main/README.md",
             "download": "https://authored-files.wabbajack.org/Waters%20of%20Life.wabbajack_7ac40306-4c21-4194-a0a5-5686b32d4091",
             "machineURL": "watersoflife",
