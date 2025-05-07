@@ -18,19 +18,19 @@
             "$type": "Links, Wabbajack.Lib",
             "image": "https://raw.githubusercontent.com/zpok3/Waters-of-Life/main/images/waters%20of%20life%20wj%20image.webp",
             "readme": "https://github.com/zpok3/Waters-of-Life/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/Waters%20of%20Life.wabbajack_7ac40306-4c21-4194-a0a5-5686b32d4091",
+            "download": "https://authored-files.wabbajack.org/Waters%20of%20Life.wabbajack_2028923e-a364-437d-b380-8fac766f60fc",
             "machineURL": "watersoflife",
             "discordURL": ""
         },
         "download_metadata": {
-            "Hash": "nxLomt3Kcdg=",
-            "Size": 228219890,
-            "NumberOfArchives": 101,
-            "SizeOfArchives": 4695231438,
-            "NumberOfInstalledFiles": 8652,
-            "SizeOfInstalledFiles": 11128888787,
-            "TotalSize": 15824120225
+            "Hash": "JlS4Nud57V4=",
+            "Size": 228298964,
+            "NumberOfArchives": 118,
+            "SizeOfArchives": 5090143949,
+            "NumberOfInstalledFiles": 10632,
+            "SizeOfInstalledFiles": 12723243822,
+            "TotalSize": 17813387771
         },
-        "version": "1.2.2"
+        "version": "1.2.3"
     }
 ]
