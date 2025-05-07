@@ -1,36 +1,41 @@
 [
-    {
-        "$type": "ModListMetadata, Wabbajack.Lib",
-        "title": "Waters of Life",
-        "description": "Waters of Life is a lightweight vanilla plus Wabbajack mod list for Fallout 3. It features essential vanilla bug fixes, performance optimizations, restored cut content, and a few gameplay features you might be used to from more modern games. If you want an easy to install modlist that doesn't stray too far from vanilla, look no further!",
-        "author": "poke",
-        "maintainers": [
-            "github/zpok3"
-        ],
-        "game": "fallout3",
-        "tags": [
-            "Vanilla+"
-        ],
-        "nsfw": false,
-        "image_contains_title": true,
-        "force_down": false,
-        "links": {
-            "$type": "Links, Wabbajack.Lib",
-            "image": "https://raw.githubusercontent.com/zpok3/Waters-of-Life/main/images/waters%20of%20life%20wj%20image.webp",
-            "readme": "https://github.com/zpok3/Waters-of-Life/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/Waters%20of%20Life.wabbajack_2028923e-a364-437d-b380-8fac766f60fc",
-            "machineURL": "watersoflife",
-            "discordURL": ""
-        },
-        "download_metadata": {
-            "Hash": "JlS4Nud57V4=",
-            "Size": 228298964,
-            "NumberOfArchives": 118,
-            "SizeOfArchives": 5090143949,
-            "NumberOfInstalledFiles": 10632,
-            "SizeOfInstalledFiles": 12723243822,
-            "TotalSize": 17813387771
-        },
-        "version": "1.2.3"
-    }
+  {
+    "title": "Waters of Life",
+    "description": "Waters of Life is a lightweight vanilla plus Wabbajack mod list for Fallout 3. It features essential vanilla bug fixes, performance optimizations, restored cut content, and a few gameplay features you might be used to from more modern games. If you want an easy to install modlist that doesn\u0027t stray too far from vanilla, look no further!",
+    "author": "poke",
+    "maintainers": [
+      "github/zpok3"
+    ],
+    "game": "fallout3",
+    "official": false,
+    "tags": [
+      "Vanilla\u002B"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/zpok3/Waters-of-Life/main/images/waters%20of%20life%20wj%20image.webp",
+      "readme": "https://github.com/zpok3/Waters-of-Life/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Waters of Life.wabbajack_86eee62a-5566-4188-9f77-41c36e0ad42b",
+      "machineURL": "watersoflife",
+      "discordURL": "",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "GwyqhSJIyXA=",
+      "Size": 228298955,
+      "NumberOfArchives": 118,
+      "SizeOfArchives": 5090143949,
+      "NumberOfInstalledFiles": 10632,
+      "SizeOfInstalledFiles": 12723243827,
+      "TotalSize": 17813387776
+    },
+    "version": "1.2.3",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-05-07T14:41:19.9027196Z",
+    "repositoryName": ""
+  }
 ]
