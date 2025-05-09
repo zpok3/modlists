@@ -19,23 +19,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/zpok3/Waters-of-Life/main/images/waters%20of%20life%20wj%20image.webp",
       "readme": "https://github.com/zpok3/Waters-of-Life/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Waters of Life.wabbajack_679739d8-c407-49d7-ac60-5eff93b10520",
+      "download": "https://authored-files.wabbajack.org/Waters of Life.wabbajack_70080615-30df-4b77-8350-181c479702ee",
       "machineURL": "watersoflife",
       "discordURL": "",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "GwyqhSJIyXA=",
-      "Size": 228298955,
+      "Hash": "8qrz40oNiBI=",
+      "Size": 228313284,
       "NumberOfArchives": 118,
       "SizeOfArchives": 5090143949,
-      "NumberOfInstalledFiles": 10632,
-      "SizeOfInstalledFiles": 12723243827,
-      "TotalSize": 17813387776
+      "NumberOfInstalledFiles": 10648,
+      "SizeOfInstalledFiles": 12723267929,
+      "TotalSize": 17813411878
     },
-    "version": "1.2.3",
+    "version": "1.2.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-05-07T14:41:37.4906687Z",
+    "dateUpdated": "2025-05-09T18:14:47.5515327Z",
     "repositoryName": ""
   }
 ]
