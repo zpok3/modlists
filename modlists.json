@@ -22,7 +22,13 @@
       "download": "https://authored-files.wabbajack.org/Waters of Life.wabbajack_9f7bfef2-6241-4661-b29c-0ee0a40b86dc",
       "machineURL": "watersoflife",
       "discordURL": "",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": {
+        "collectionId": "469884",
+        "slug": "eryleg",
+        "domainName": "fallout3",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "GVlhI8jQXnY=",
